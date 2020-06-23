@@ -20,7 +20,7 @@ void setup()
   lcd.setCursor(0, 0);
   lcd.print("Khizar Hayat");
   lcd.setCursor(0, 1);
-  lcd.print("**-->** ");
+  lcd.print("GitHub: khizar7eg ");
   delay(1000);
   lcd.clear();
 for (int i=7;i<14;i++)
